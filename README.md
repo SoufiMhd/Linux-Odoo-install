@@ -2,7 +2,7 @@
 
 1. **Download the script:**
 ```text
-git clone https://github.com/AbdallahBaddour/odoo-install
+https://github.com/SoufiMhd/Linux-Odoo-install.git
 ```
 2. **Modify the parameters as you wish.**
 There are a few things you can configure, this is the most used list:
