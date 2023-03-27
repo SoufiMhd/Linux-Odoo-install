@@ -2,7 +2,7 @@
 ##fixed parameters
 #odoo
 
-OE_VERSION="14.0"
+OE_VERSION="16.0"
 OE_INSTALL_DIR="$OE_HOME/$OE_VERSION"
 OE_REPO="$OE_INSTALL_DIR/odoo"
 #Set to true if you want to install it, false if you don't need it or have it already installed.
@@ -22,8 +22,8 @@ OE_SUPERADMIN="admin"
 INSTALL_PG_SERVER="True" # if false, than only client will be installed
 OE_DB_HOST="localhost"
 OE_DB_PORT="5432"
-OE_DB_USER="odoo16"
-OE_DB_PASSWORD="odoo16"
+OE_DB_USER="odoo"
+OE_DB_PASSWORD="odoo"
 PG_VERSION=12
 
 WEB_SERVER="nginx" # or "apache2"
