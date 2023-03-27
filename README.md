@@ -2,7 +2,7 @@
 
 1. **Download the script:**
 ```text
-git clone https://github.com/SoufiMhd/odoo-install.git
+sudo git clone https://github.com/SoufiMhd/odoo-install.git
 ```
 2. **Modify the parameters as you wish.**
 There are a few things you can configure, this is the most used list:
