@@ -22,8 +22,8 @@ OE_SUPERADMIN="admin"
 INSTALL_PG_SERVER="True" # if false, than only client will be installed
 OE_DB_HOST="localhost"
 OE_DB_PORT="5432"
-OE_DB_USER="odoo"
-OE_DB_PASSWORD="odoo"
+OE_DB_USER="odoo16"
+OE_DB_PASSWORD="odoo16"
 PG_VERSION=12
 
 WEB_SERVER="nginx" # or "apache2"
